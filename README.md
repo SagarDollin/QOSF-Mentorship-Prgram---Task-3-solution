@@ -11,5 +11,9 @@ IBM Quantum Computer then we are supposed to implement Cnot gate in terms of Cz 
 So to understad the solution,I Suggest you to go through the "Final solution to Task 3.ipynb" file first. Note that this file is designed to convey how the solution works, This file has comments along the lines of codes inorder to present the reader the approach used to solve this problem. The actual solution is in the folder "Compile" which is the same as in the "task3solution.ipynb" file.The only difference is it is a modular approach which means the funtions used in the program are stored in different file inorder to make the code look clean and can be reused. Also to do the second part of the Task which is to analyse the overhead and to make the compiling task better is present in the doc "How it works and analysis of overhead" which also has a breif explaination of the current approach.
 
 
+Note: The "how it works and analysis overhead" docx file is not being rendered on the github(may be beacuse of the size of the file),therefore i have also uploaded the pdf copy of the same which is rendered pretty well.
+
+also in th ipynb files the unitary matrix is not rendered properly on github, you can run them yourself on jupyter notebook to render the unitary matrix, however all other things are rendered properly on the github platform which is sufficient to understand the solution. Also in the "How it works and analysis of overhead" i have added the screenshots of unitary of the circuit so that should give the idea.
+
 
  
